@@ -1,0 +1,10 @@
+event_type,base_value_share
+swaps,0.224575
+mints,0.05096
+burns,0.051959
+deposits,0.285237
+withdraws,0.240615
+borrows,0.078044
+repays,0.041546
+flashloans,1.1e-05
+transfers,0.027052

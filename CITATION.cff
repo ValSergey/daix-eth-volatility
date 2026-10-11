@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the paper below."
+title: "DAIX: an on-chain activity index and Ether volatility — data"
+authors:
+  - family-names: Valentinov
+    given-names: Sergey G.
+    affiliation: "Department of Finance, Southern Federal University, Rostov-on-Don, Russian Federation"
+    orcid: "https://orcid.org/0009-0007-7747-9469"
+license: CC-BY-4.0
+date-released: 2026-10-11
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Valentinov
+      given-names: Sergey G.
+      orcid: "https://orcid.org/0009-0007-7747-9469"
+  title: "DAIX: an on-chain activity index as a real-time measure of Ether volatility"
+  journal: "Digital Finance"
+  year: 2026
+  status: submitted

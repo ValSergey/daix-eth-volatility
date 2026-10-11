@@ -1,0 +1,91 @@
+h,model,DM,p
+1,Direct  [vs Naive],-3.5222,0.0005
+1,Direct + all drivers (ridge)  [vs Naive],-3.5835,0.0004
+1,"Bottom-up, no drivers  [vs Naive]",-2.2609,0.0246
+1,"Bottom-up, own drivers  [vs Naive]",-3.9536,0.0001
+1,"Combination (direct, BU own drivers)  [vs Naive]",-4.0845,0.0001
+1,Direct + all drivers (ridge),-1.1546,0.2493
+1,"Bottom-up, no drivers",2.3748,0.0183
+1,"Bottom-up, own drivers",-2.5103,0.0127
+1,"Combination (direct, BU own drivers)",-3.936,0.0001
+1,BU own drivers  [vs Direct + all drivers],-0.8621,0.3894
+2,Direct  [vs Naive],-4.7667,0.0
+2,Direct + all drivers (ridge)  [vs Naive],-4.1412,0.0
+2,"Bottom-up, no drivers  [vs Naive]",-3.8501,0.0001
+2,"Bottom-up, own drivers  [vs Naive]",-5.5836,0.0
+2,"Combination (direct, BU own drivers)  [vs Naive]",-5.6325,0.0
+2,Direct + all drivers (ridge),-0.6663,0.5058
+2,"Bottom-up, no drivers",1.3248,0.1864
+2,"Bottom-up, own drivers",-3.2608,0.0013
+2,"Combination (direct, BU own drivers)",-4.9091,0.0
+2,BU own drivers  [vs Direct + all drivers],-1.3499,0.1782
+3,Direct  [vs Naive],-4.3343,0.0
+3,Direct + all drivers (ridge)  [vs Naive],-3.8601,0.0001
+3,"Bottom-up, no drivers  [vs Naive]",-3.8536,0.0001
+3,"Bottom-up, own drivers  [vs Naive]",-5.2686,0.0
+3,"Combination (direct, BU own drivers)  [vs Naive]",-5.3937,0.0
+3,Direct + all drivers (ridge),-0.7108,0.4778
+3,"Bottom-up, no drivers",-0.3724,0.7099
+3,"Bottom-up, own drivers",-2.7801,0.0058
+3,"Combination (direct, BU own drivers)",-4.0654,0.0001
+3,BU own drivers  [vs Direct + all drivers],-1.2032,0.23
+5,Direct  [vs Naive],-2.8172,0.0052
+5,Direct + all drivers (ridge)  [vs Naive],-4.5228,0.0
+5,"Bottom-up, no drivers  [vs Naive]",-2.6688,0.0081
+5,"Bottom-up, own drivers  [vs Naive]",-4.7225,0.0
+5,"Combination (direct, BU own drivers)  [vs Naive]",-4.3603,0.0
+5,Direct + all drivers (ridge),-2.4389,0.0154
+5,"Bottom-up, no drivers",-1.1991,0.2316
+5,"Bottom-up, own drivers",-4.1765,0.0
+5,"Combination (direct, BU own drivers)",-5.1812,0.0
+5,BU own drivers  [vs Direct + all drivers],-1.376,0.17
+7,Direct  [vs Naive],1.4716,0.1424
+7,Direct + all drivers (ridge)  [vs Naive],0.832,0.4062
+7,"Bottom-up, no drivers  [vs Naive]",0.7083,0.4794
+7,"Bottom-up, own drivers  [vs Naive]",-0.9348,0.3508
+7,"Combination (direct, BU own drivers)  [vs Naive]",-0.1624,0.8711
+7,Direct + all drivers (ridge),0.2364,0.8133
+7,"Bottom-up, no drivers",-1.2932,0.1971
+7,"Bottom-up, own drivers",-2.9282,0.0037
+7,"Combination (direct, BU own drivers)",-3.9197,0.0001
+7,BU own drivers  [vs Direct + all drivers],-1.2271,0.2209
+10,Direct  [vs Naive],-1.3324,0.184
+10,Direct + all drivers (ridge)  [vs Naive],-0.9246,0.3561
+10,"Bottom-up, no drivers  [vs Naive]",-1.6596,0.0983
+10,"Bottom-up, own drivers  [vs Naive]",-3.4984,0.0006
+10,"Combination (direct, BU own drivers)  [vs Naive]",-3.0958,0.0022
+10,Direct + all drivers (ridge),-0.1379,0.8904
+10,"Bottom-up, no drivers",-1.6048,0.1098
+10,"Bottom-up, own drivers",-2.4746,0.014
+10,"Combination (direct, BU own drivers)",-3.2409,0.0014
+10,BU own drivers  [vs Direct + all drivers],-1.5319,0.1268
+14,Direct  [vs Naive],1.4095,0.16
+14,Direct + all drivers (ridge)  [vs Naive],0.7731,0.4402
+14,"Bottom-up, no drivers  [vs Naive]",0.817,0.4147
+14,"Bottom-up, own drivers  [vs Naive]",-0.3156,0.7526
+14,"Combination (direct, BU own drivers)  [vs Naive]",0.2428,0.8084
+14,Direct + all drivers (ridge),0.0438,0.9651
+14,"Bottom-up, no drivers",-1.3805,0.1687
+14,"Bottom-up, own drivers",-2.0998,0.0368
+14,"Combination (direct, BU own drivers)",-2.7601,0.0062
+14,BU own drivers  [vs Direct + all drivers],-1.0708,0.2853
+W1,Direct  [vs Naive],-1.8759,0.0618
+W1,Direct + all drivers (ridge)  [vs Naive],-1.5928,0.1124
+W1,"Bottom-up, no drivers  [vs Naive]",-1.5752,0.1164
+W1,"Bottom-up, own drivers  [vs Naive]",-4.3003,0.0
+W1,"Combination (direct, BU own drivers)  [vs Naive]",-3.7308,0.0002
+W1,Direct + all drivers (ridge),-0.405,0.6858
+W1,"Bottom-up, no drivers",-0.2288,0.8192
+W1,"Bottom-up, own drivers",-3.5779,0.0004
+W1,"Combination (direct, BU own drivers)",-4.7802,0.0
+W1,BU own drivers  [vs Direct + all drivers],-1.1838,0.2376
+W2,Direct  [vs Naive],0.029,0.9769
+W2,Direct + all drivers (ridge)  [vs Naive],0.0701,0.9442
+W2,"Bottom-up, no drivers  [vs Naive]",-0.2983,0.7658
+W2,"Bottom-up, own drivers  [vs Naive]",-1.941,0.0534
+W2,"Combination (direct, BU own drivers)  [vs Naive]",-1.4496,0.1484
+W2,Direct + all drivers (ridge),0.049,0.961
+W2,"Bottom-up, no drivers",-1.0415,0.2987
+W2,"Bottom-up, own drivers",-1.9995,0.0467
+W2,"Combination (direct, BU own drivers)",-2.7782,0.0059
+W2,BU own drivers  [vs Direct + all drivers],-1.2113,0.227

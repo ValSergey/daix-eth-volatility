@@ -1,0 +1,56 @@
+h,model,p_MCS,in_90
+1,Bridge: BU no market drivers,0.073,False
+1,Bridge: BU on-chain only,0.073,False
+1,Bridge: BU own drivers,0.073,False
+1,Bridge: Direct index,0.073,False
+1,"GARCH(1,1)-t",0.0065,False
+1,HAR-RV (180 days),0.0815,False
+1,HAR-RV (full history),1.0,True
+1,HAR-X: BU no market drivers,0.1145,True
+1,HAR-X: BU on-chain only,0.1145,True
+1,HAR-X: BU own drivers,0.1145,True
+1,No change,0.0045,False
+3,Bridge: BU no market drivers,0.1115,True
+3,Bridge: BU on-chain only,0.1115,True
+3,Bridge: BU own drivers,0.115,True
+3,Bridge: Direct index,0.389,True
+3,"GARCH(1,1)-t",0.1895,True
+3,HAR-RV (180 days),0.1465,True
+3,HAR-RV (full history),1.0,True
+3,HAR-X: BU no market drivers,0.1465,True
+3,HAR-X: BU on-chain only,0.1465,True
+3,HAR-X: BU own drivers,0.1465,True
+3,No change,0.0705,False
+7,Bridge: BU no market drivers,0.4315,True
+7,Bridge: BU on-chain only,0.4315,True
+7,Bridge: BU own drivers,0.4315,True
+7,Bridge: Direct index,1.0,True
+7,"GARCH(1,1)-t",0.4315,True
+7,HAR-RV (180 days),0.541,True
+7,HAR-RV (full history),0.9065,True
+7,HAR-X: BU no market drivers,0.198,True
+7,HAR-X: BU on-chain only,0.198,True
+7,HAR-X: BU own drivers,0.1985,True
+7,No change,0.306,True
+W1,Bridge: BU no market drivers,0.3095,True
+W1,Bridge: BU on-chain only,0.3095,True
+W1,Bridge: BU own drivers,0.3095,True
+W1,Bridge: Direct index,0.821,True
+W1,"GARCH(1,1)-t",0.3095,True
+W1,HAR-RV (180 days),0.5125,True
+W1,HAR-RV (full history),1.0,True
+W1,HAR-X: BU no market drivers,0.073,False
+W1,HAR-X: BU on-chain only,0.0735,False
+W1,HAR-X: BU own drivers,0.101,True
+W1,No change,0.101,True
+W2,Bridge: BU no market drivers,0.338,True
+W2,Bridge: BU on-chain only,0.338,True
+W2,Bridge: BU own drivers,0.338,True
+W2,Bridge: Direct index,1.0,True
+W2,"GARCH(1,1)-t",0.045,False
+W2,HAR-RV (180 days),0.737,True
+W2,HAR-RV (full history),0.737,True
+W2,HAR-X: BU no market drivers,0.1475,True
+W2,HAR-X: BU on-chain only,0.1515,True
+W2,HAR-X: BU own drivers,0.12,True
+W2,No change,0.0585,False

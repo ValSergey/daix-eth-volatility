@@ -1,0 +1,577 @@
+loss,h,model,bench,DM,p
+qlike,1,Bridge: Direct index,HAR-RV (full history),2.8149,0.0053
+qlike,1,Bridge: Direct index,HAR-RV (180 days),2.0353,0.0428
+qlike,1,Bridge: Direct index,"GARCH(1,1)-t",-0.4845,0.6284
+qlike,1,Bridge: Direct index,No change,-0.8153,0.4156
+qlike,1,Bridge: BU own drivers,HAR-RV (full history),2.9844,0.0031
+qlike,1,Bridge: BU own drivers,HAR-RV (180 days),2.2717,0.0239
+qlike,1,Bridge: BU own drivers,"GARCH(1,1)-t",-0.0801,0.9362
+qlike,1,Bridge: BU own drivers,No change,-0.5792,0.563
+qlike,1,HAR-X: BU own drivers,HAR-RV (full history),1.8925,0.0595
+qlike,1,HAR-X: BU own drivers,HAR-RV (180 days),1.1737,0.2416
+qlike,1,HAR-X: BU own drivers,"GARCH(1,1)-t",-2.0508,0.0413
+qlike,1,HAR-X: BU own drivers,No change,-3.0534,0.0025
+qlike,1,Bridge: BU no market drivers,HAR-RV (full history),3.0557,0.0025
+qlike,1,Bridge: BU no market drivers,HAR-RV (180 days),2.3394,0.0201
+qlike,1,Bridge: BU no market drivers,"GARCH(1,1)-t",0.0086,0.9932
+qlike,1,Bridge: BU no market drivers,No change,-0.5267,0.5989
+qlike,1,HAR-X: BU no market drivers,HAR-RV (full history),1.8728,0.0622
+qlike,1,HAR-X: BU no market drivers,HAR-RV (180 days),1.1534,0.2498
+qlike,1,HAR-X: BU no market drivers,"GARCH(1,1)-t",-2.0459,0.0418
+qlike,1,HAR-X: BU no market drivers,No change,-3.0456,0.0026
+qlike,1,Bridge: BU on-chain only,HAR-RV (full history),3.0707,0.0024
+qlike,1,Bridge: BU on-chain only,HAR-RV (180 days),2.3582,0.0191
+qlike,1,Bridge: BU on-chain only,"GARCH(1,1)-t",0.0397,0.9684
+qlike,1,Bridge: BU on-chain only,No change,-0.5075,0.6122
+qlike,1,HAR-X: BU on-chain only,HAR-RV (full history),1.8709,0.0625
+qlike,1,HAR-X: BU on-chain only,HAR-RV (180 days),1.1529,0.25
+qlike,1,HAR-X: BU on-chain only,"GARCH(1,1)-t",-2.0422,0.0421
+qlike,1,HAR-X: BU on-chain only,No change,-3.0408,0.0026
+qlike,1,Bridge: realised index (oracle),HAR-RV (full history),2.1236,0.0346
+qlike,1,Bridge: realised index (oracle),HAR-RV (180 days),1.4507,0.1481
+qlike,1,Bridge: realised index (oracle),"GARCH(1,1)-t",-0.8276,0.4087
+qlike,1,Bridge: realised index (oracle),No change,-0.9845,0.3258
+se,1,Bridge: Direct index,HAR-RV (full history),2.9769,0.0032
+se,1,Bridge: Direct index,HAR-RV (180 days),2.2158,0.0276
+se,1,Bridge: Direct index,"GARCH(1,1)-t",-0.6266,0.5315
+se,1,Bridge: Direct index,No change,1.8867,0.0603
+se,1,Bridge: BU own drivers,HAR-RV (full history),2.8019,0.0055
+se,1,Bridge: BU own drivers,HAR-RV (180 days),2.2331,0.0264
+se,1,Bridge: BU own drivers,"GARCH(1,1)-t",-0.1131,0.91
+se,1,Bridge: BU own drivers,No change,1.9685,0.0501
+se,1,HAR-X: BU own drivers,HAR-RV (full history),1.528,0.1277
+se,1,HAR-X: BU own drivers,HAR-RV (180 days),0.9707,0.3326
+se,1,HAR-X: BU own drivers,"GARCH(1,1)-t",-3.1685,0.0017
+se,1,HAR-X: BU own drivers,No change,0.3381,0.7356
+se,1,Bridge: BU no market drivers,HAR-RV (full history),2.8188,0.0052
+se,1,Bridge: BU no market drivers,HAR-RV (180 days),2.2654,0.0243
+se,1,Bridge: BU no market drivers,"GARCH(1,1)-t",-0.0299,0.9762
+se,1,Bridge: BU no market drivers,No change,2.0022,0.0463
+se,1,HAR-X: BU no market drivers,HAR-RV (full history),1.4922,0.1369
+se,1,HAR-X: BU no market drivers,HAR-RV (180 days),0.839,0.4023
+se,1,HAR-X: BU no market drivers,"GARCH(1,1)-t",-3.2623,0.0013
+se,1,HAR-X: BU no market drivers,No change,0.2628,0.7929
+se,1,Bridge: BU on-chain only,HAR-RV (full history),2.8533,0.0047
+se,1,Bridge: BU on-chain only,HAR-RV (180 days),2.2811,0.0234
+se,1,Bridge: BU on-chain only,"GARCH(1,1)-t",-0.0582,0.9536
+se,1,Bridge: BU on-chain only,No change,2.0099,0.0455
+se,1,HAR-X: BU on-chain only,HAR-RV (full history),1.501,0.1346
+se,1,HAR-X: BU on-chain only,HAR-RV (180 days),0.8603,0.3904
+se,1,HAR-X: BU on-chain only,"GARCH(1,1)-t",-3.2535,0.0013
+se,1,HAR-X: BU on-chain only,No change,0.2736,0.7846
+se,1,Bridge: realised index (oracle),HAR-RV (full history),3.1224,0.002
+se,1,Bridge: realised index (oracle),HAR-RV (180 days),2.2026,0.0285
+se,1,Bridge: realised index (oracle),"GARCH(1,1)-t",-1.4267,0.1549
+se,1,Bridge: realised index (oracle),No change,1.8023,0.0727
+qlike,2,Bridge: Direct index,HAR-RV (full history),2.2605,0.0246
+qlike,2,Bridge: Direct index,HAR-RV (180 days),1.1491,0.2516
+qlike,2,Bridge: Direct index,"GARCH(1,1)-t",-0.6313,0.5284
+qlike,2,Bridge: Direct index,No change,-3.1007,0.0021
+qlike,2,Bridge: BU own drivers,HAR-RV (full history),2.7041,0.0073
+qlike,2,Bridge: BU own drivers,HAR-RV (180 days),1.8151,0.0707
+qlike,2,Bridge: BU own drivers,"GARCH(1,1)-t",0.2225,0.8241
+qlike,2,Bridge: BU own drivers,No change,-2.4814,0.0137
+qlike,2,HAR-X: BU own drivers,HAR-RV (full history),2.6197,0.0093
+qlike,2,HAR-X: BU own drivers,HAR-RV (180 days),1.8552,0.0647
+qlike,2,HAR-X: BU own drivers,"GARCH(1,1)-t",-0.7243,0.4696
+qlike,2,HAR-X: BU own drivers,No change,-3.4785,0.0006
+qlike,2,Bridge: BU no market drivers,HAR-RV (full history),2.6838,0.0077
+qlike,2,Bridge: BU no market drivers,HAR-RV (180 days),1.7634,0.079
+qlike,2,Bridge: BU no market drivers,"GARCH(1,1)-t",0.1354,0.8924
+qlike,2,Bridge: BU no market drivers,No change,-2.5615,0.011
+qlike,2,HAR-X: BU no market drivers,HAR-RV (full history),2.63,0.0091
+qlike,2,HAR-X: BU no market drivers,HAR-RV (180 days),1.866,0.0632
+qlike,2,HAR-X: BU no market drivers,"GARCH(1,1)-t",-0.6984,0.4855
+qlike,2,HAR-X: BU no market drivers,No change,-3.4541,0.0006
+qlike,2,Bridge: BU on-chain only,HAR-RV (full history),2.6934,0.0075
+qlike,2,Bridge: BU on-chain only,HAR-RV (180 days),1.7782,0.0765
+qlike,2,Bridge: BU on-chain only,"GARCH(1,1)-t",0.1566,0.8757
+qlike,2,Bridge: BU on-chain only,No change,-2.5439,0.0115
+qlike,2,HAR-X: BU on-chain only,HAR-RV (full history),2.6115,0.0095
+qlike,2,HAR-X: BU on-chain only,HAR-RV (180 days),1.8507,0.0654
+qlike,2,HAR-X: BU on-chain only,"GARCH(1,1)-t",-0.6992,0.4851
+qlike,2,HAR-X: BU on-chain only,No change,-3.4537,0.0006
+qlike,2,Bridge: realised index (oracle),HAR-RV (full history),0.9883,0.3239
+qlike,2,Bridge: realised index (oracle),HAR-RV (180 days),0.1946,0.8458
+qlike,2,Bridge: realised index (oracle),"GARCH(1,1)-t",-1.4506,0.1481
+qlike,2,Bridge: realised index (oracle),No change,-3.4346,0.0007
+se,2,Bridge: Direct index,HAR-RV (full history),1.7829,0.0758
+se,2,Bridge: Direct index,HAR-RV (180 days),0.846,0.3983
+se,2,Bridge: Direct index,"GARCH(1,1)-t",-0.8579,0.3917
+se,2,Bridge: Direct index,No change,0.3361,0.737
+se,2,Bridge: BU own drivers,HAR-RV (full history),2.0141,0.045
+se,2,Bridge: BU own drivers,HAR-RV (180 days),1.2183,0.2242
+se,2,Bridge: BU own drivers,"GARCH(1,1)-t",-0.1462,0.8839
+se,2,Bridge: BU own drivers,No change,0.7251,0.469
+se,2,HAR-X: BU own drivers,HAR-RV (full history),2.1312,0.034
+se,2,HAR-X: BU own drivers,HAR-RV (180 days),1.0088,0.314
+se,2,HAR-X: BU own drivers,"GARCH(1,1)-t",-1.7458,0.082
+se,2,HAR-X: BU own drivers,No change,0.0137,0.9891
+se,2,Bridge: BU no market drivers,HAR-RV (full history),2.0123,0.0452
+se,2,Bridge: BU no market drivers,HAR-RV (180 days),1.1948,0.2333
+se,2,Bridge: BU no market drivers,"GARCH(1,1)-t",-0.2121,0.8322
+se,2,Bridge: BU no market drivers,No change,0.6923,0.4894
+se,2,HAR-X: BU no market drivers,HAR-RV (full history),2.0983,0.0369
+se,2,HAR-X: BU no market drivers,HAR-RV (180 days),0.9608,0.3376
+se,2,HAR-X: BU no market drivers,"GARCH(1,1)-t",-1.6194,0.1066
+se,2,HAR-X: BU no market drivers,No change,0.0511,0.9593
+se,2,Bridge: BU on-chain only,HAR-RV (full history),2.0119,0.0453
+se,2,Bridge: BU on-chain only,HAR-RV (180 days),1.1688,0.2436
+se,2,Bridge: BU on-chain only,"GARCH(1,1)-t",-0.2691,0.7881
+se,2,Bridge: BU on-chain only,No change,0.6631,0.5079
+se,2,HAR-X: BU on-chain only,HAR-RV (full history),2.1152,0.0354
+se,2,HAR-X: BU on-chain only,HAR-RV (180 days),1.0017,0.3174
+se,2,HAR-X: BU on-chain only,"GARCH(1,1)-t",-1.5948,0.112
+se,2,HAR-X: BU on-chain only,No change,0.0636,0.9494
+se,2,Bridge: realised index (oracle),HAR-RV (full history),1.3465,0.1793
+se,2,Bridge: realised index (oracle),HAR-RV (180 days),0.2903,0.7718
+se,2,Bridge: realised index (oracle),"GARCH(1,1)-t",-1.9011,0.0584
+se,2,Bridge: realised index (oracle),No change,-0.1816,0.8561
+qlike,3,Bridge: Direct index,HAR-RV (full history),0.8532,0.3944
+qlike,3,Bridge: Direct index,HAR-RV (180 days),-0.1201,0.9045
+qlike,3,Bridge: Direct index,"GARCH(1,1)-t",-0.9716,0.3322
+qlike,3,Bridge: Direct index,No change,-2.1194,0.035
+qlike,3,Bridge: BU own drivers,HAR-RV (full history),1.6667,0.0968
+qlike,3,Bridge: BU own drivers,HAR-RV (180 days),0.7045,0.4818
+qlike,3,Bridge: BU own drivers,"GARCH(1,1)-t",0.0233,0.9814
+qlike,3,Bridge: BU own drivers,No change,-1.8535,0.065
+qlike,3,HAR-X: BU own drivers,HAR-RV (full history),2.1203,0.0349
+qlike,3,HAR-X: BU own drivers,HAR-RV (180 days),1.3338,0.1834
+qlike,3,HAR-X: BU own drivers,"GARCH(1,1)-t",0.084,0.9331
+qlike,3,HAR-X: BU own drivers,No change,-2.1721,0.0308
+qlike,3,Bridge: BU no market drivers,HAR-RV (full history),1.7083,0.0888
+qlike,3,Bridge: BU no market drivers,HAR-RV (180 days),0.7124,0.4769
+qlike,3,Bridge: BU no market drivers,"GARCH(1,1)-t",0.0128,0.9898
+qlike,3,Bridge: BU no market drivers,No change,-1.8635,0.0635
+qlike,3,HAR-X: BU no market drivers,HAR-RV (full history),2.1425,0.0331
+qlike,3,HAR-X: BU no market drivers,HAR-RV (180 days),1.3656,0.1733
+qlike,3,HAR-X: BU no market drivers,"GARCH(1,1)-t",0.107,0.9149
+qlike,3,HAR-X: BU no market drivers,No change,-2.1579,0.0319
+qlike,3,Bridge: BU on-chain only,HAR-RV (full history),1.7034,0.0897
+qlike,3,Bridge: BU on-chain only,HAR-RV (180 days),0.7063,0.4806
+qlike,3,Bridge: BU on-chain only,"GARCH(1,1)-t",0.0058,0.9954
+qlike,3,Bridge: BU on-chain only,No change,-1.8654,0.0633
+qlike,3,HAR-X: BU on-chain only,HAR-RV (full history),2.1375,0.0335
+qlike,3,HAR-X: BU on-chain only,HAR-RV (180 days),1.3621,0.1744
+qlike,3,HAR-X: BU on-chain only,"GARCH(1,1)-t",0.1017,0.919
+qlike,3,HAR-X: BU on-chain only,No change,-2.1627,0.0315
+qlike,3,Bridge: realised index (oracle),HAR-RV (full history),-0.2902,0.7719
+qlike,3,Bridge: realised index (oracle),HAR-RV (180 days),-0.8737,0.3831
+qlike,3,Bridge: realised index (oracle),"GARCH(1,1)-t",-2.1452,0.0329
+qlike,3,Bridge: realised index (oracle),No change,-2.3032,0.0221
+se,3,Bridge: Direct index,HAR-RV (full history),1.256,0.2103
+se,3,Bridge: Direct index,HAR-RV (180 days),0.3209,0.7485
+se,3,Bridge: Direct index,"GARCH(1,1)-t",-1.3528,0.1773
+se,3,Bridge: Direct index,No change,-0.1735,0.8624
+se,3,Bridge: BU own drivers,HAR-RV (full history),1.5988,0.1111
+se,3,Bridge: BU own drivers,HAR-RV (180 days),0.7302,0.466
+se,3,Bridge: BU own drivers,"GARCH(1,1)-t",-0.6471,0.5181
+se,3,Bridge: BU own drivers,No change,0.1723,0.8633
+se,3,HAR-X: BU own drivers,HAR-RV (full history),1.687,0.0928
+se,3,HAR-X: BU own drivers,HAR-RV (180 days),2.0452,0.0419
+se,3,HAR-X: BU own drivers,"GARCH(1,1)-t",-1.5716,0.1173
+se,3,HAR-X: BU own drivers,No change,0.1144,0.909
+se,3,Bridge: BU no market drivers,HAR-RV (full history),1.6357,0.1031
+se,3,Bridge: BU no market drivers,HAR-RV (180 days),0.7572,0.4496
+se,3,Bridge: BU no market drivers,"GARCH(1,1)-t",-0.6273,0.531
+se,3,Bridge: BU no market drivers,No change,0.1886,0.8506
+se,3,HAR-X: BU no market drivers,HAR-RV (full history),1.9188,0.0561
+se,3,HAR-X: BU no market drivers,HAR-RV (180 days),2.1096,0.0359
+se,3,HAR-X: BU no market drivers,"GARCH(1,1)-t",-1.5068,0.1331
+se,3,HAR-X: BU no market drivers,No change,0.1555,0.8765
+se,3,Bridge: BU on-chain only,HAR-RV (full history),1.6234,0.1057
+se,3,Bridge: BU on-chain only,HAR-RV (180 days),0.7304,0.4658
+se,3,Bridge: BU on-chain only,"GARCH(1,1)-t",-0.6766,0.4993
+se,3,Bridge: BU on-chain only,No change,0.1639,0.87
+se,3,HAR-X: BU on-chain only,HAR-RV (full history),1.8908,0.0598
+se,3,HAR-X: BU on-chain only,HAR-RV (180 days),2.1112,0.0357
+se,3,HAR-X: BU on-chain only,"GARCH(1,1)-t",-1.5187,0.1301
+se,3,HAR-X: BU on-chain only,No change,0.1423,0.887
+se,3,Bridge: realised index (oracle),HAR-RV (full history),0.4091,0.6828
+se,3,Bridge: realised index (oracle),HAR-RV (180 days),-0.3396,0.7345
+se,3,Bridge: realised index (oracle),"GARCH(1,1)-t",-2.4725,0.0141
+se,3,Bridge: realised index (oracle),No change,-0.6519,0.515
+qlike,5,Bridge: Direct index,HAR-RV (full history),0.3449,0.7305
+qlike,5,Bridge: Direct index,HAR-RV (180 days),-0.5018,0.6162
+qlike,5,Bridge: Direct index,"GARCH(1,1)-t",-1.1806,0.2389
+qlike,5,Bridge: Direct index,No change,-2.0517,0.0412
+qlike,5,Bridge: BU own drivers,HAR-RV (full history),1.1052,0.2701
+qlike,5,Bridge: BU own drivers,HAR-RV (180 days),0.1467,0.8835
+qlike,5,Bridge: BU own drivers,"GARCH(1,1)-t",-0.3573,0.7211
+qlike,5,Bridge: BU own drivers,No change,-1.8871,0.0603
+qlike,5,HAR-X: BU own drivers,HAR-RV (full history),2.1229,0.0347
+qlike,5,HAR-X: BU own drivers,HAR-RV (180 days),1.4789,0.1404
+qlike,5,HAR-X: BU own drivers,"GARCH(1,1)-t",0.4246,0.6715
+qlike,5,HAR-X: BU own drivers,No change,-1.9193,0.0561
+qlike,5,Bridge: BU no market drivers,HAR-RV (full history),1.1445,0.2535
+qlike,5,Bridge: BU no market drivers,HAR-RV (180 days),0.1469,0.8834
+qlike,5,Bridge: BU no market drivers,"GARCH(1,1)-t",-0.3696,0.712
+qlike,5,Bridge: BU no market drivers,No change,-1.8965,0.059
+qlike,5,HAR-X: BU no market drivers,HAR-RV (full history),2.142,0.0331
+qlike,5,HAR-X: BU no market drivers,HAR-RV (180 days),1.5146,0.1311
+qlike,5,HAR-X: BU no market drivers,"GARCH(1,1)-t",0.5079,0.612
+qlike,5,HAR-X: BU no market drivers,No change,-1.8497,0.0655
+qlike,5,Bridge: BU on-chain only,HAR-RV (full history),1.1194,0.264
+qlike,5,Bridge: BU on-chain only,HAR-RV (180 days),0.1276,0.8985
+qlike,5,Bridge: BU on-chain only,"GARCH(1,1)-t",-0.3901,0.6968
+qlike,5,Bridge: BU on-chain only,No change,-1.9006,0.0585
+qlike,5,HAR-X: BU on-chain only,HAR-RV (full history),2.1551,0.0321
+qlike,5,HAR-X: BU on-chain only,HAR-RV (180 days),1.5317,0.1268
+qlike,5,HAR-X: BU on-chain only,"GARCH(1,1)-t",0.513,0.6084
+qlike,5,HAR-X: BU on-chain only,No change,-1.8494,0.0656
+qlike,5,Bridge: realised index (oracle),HAR-RV (full history),-1.0278,0.305
+qlike,5,Bridge: realised index (oracle),HAR-RV (180 days),-1.3629,0.1741
+qlike,5,Bridge: realised index (oracle),"GARCH(1,1)-t",-2.927,0.0037
+qlike,5,Bridge: realised index (oracle),No change,-2.2023,0.0285
+se,5,Bridge: Direct index,HAR-RV (full history),0.9569,0.3395
+se,5,Bridge: Direct index,HAR-RV (180 days),-0.5112,0.6097
+se,5,Bridge: Direct index,"GARCH(1,1)-t",-2.0107,0.0454
+se,5,Bridge: Direct index,No change,-1.1068,0.2694
+se,5,Bridge: BU own drivers,HAR-RV (full history),1.1835,0.2377
+se,5,Bridge: BU own drivers,HAR-RV (180 days),-0.27,0.7874
+se,5,Bridge: BU own drivers,"GARCH(1,1)-t",-1.6449,0.1012
+se,5,Bridge: BU own drivers,No change,-0.9391,0.3485
+se,5,HAR-X: BU own drivers,HAR-RV (full history),1.6452,0.1012
+se,5,HAR-X: BU own drivers,HAR-RV (180 days),2.3863,0.0177
+se,5,HAR-X: BU own drivers,"GARCH(1,1)-t",-1.2539,0.211
+se,5,HAR-X: BU own drivers,No change,-0.8626,0.3892
+se,5,Bridge: BU no market drivers,HAR-RV (full history),1.2695,0.2054
+se,5,Bridge: BU no market drivers,HAR-RV (180 days),-0.2414,0.8094
+se,5,Bridge: BU no market drivers,"GARCH(1,1)-t",-1.6384,0.1026
+se,5,Bridge: BU no market drivers,No change,-0.9231,0.3568
+se,5,HAR-X: BU no market drivers,HAR-RV (full history),2.1365,0.0336
+se,5,HAR-X: BU no market drivers,HAR-RV (180 days),1.7761,0.0769
+se,5,HAR-X: BU no market drivers,"GARCH(1,1)-t",-1.5227,0.1291
+se,5,HAR-X: BU no market drivers,No change,-0.778,0.4373
+se,5,Bridge: BU on-chain only,HAR-RV (full history),1.2368,0.2173
+se,5,Bridge: BU on-chain only,HAR-RV (180 days),-0.2682,0.7888
+se,5,Bridge: BU on-chain only,"GARCH(1,1)-t",-1.6672,0.0967
+se,5,Bridge: BU on-chain only,No change,-0.9407,0.3478
+se,5,HAR-X: BU on-chain only,HAR-RV (full history),2.1528,0.0323
+se,5,HAR-X: BU on-chain only,HAR-RV (180 days),1.5902,0.113
+se,5,HAR-X: BU on-chain only,"GARCH(1,1)-t",-1.5506,0.1222
+se,5,HAR-X: BU on-chain only,No change,-0.793,0.4285
+se,5,Bridge: realised index (oracle),HAR-RV (full history),-0.7196,0.4724
+se,5,Bridge: realised index (oracle),HAR-RV (180 days),-1.3734,0.1708
+se,5,Bridge: realised index (oracle),"GARCH(1,1)-t",-3.04,0.0026
+se,5,Bridge: realised index (oracle),No change,-1.6523,0.0997
+qlike,7,Bridge: Direct index,HAR-RV (full history),-0.1117,0.9112
+qlike,7,Bridge: Direct index,HAR-RV (180 days),-0.7447,0.4572
+qlike,7,Bridge: Direct index,"GARCH(1,1)-t",-1.6942,0.0914
+qlike,7,Bridge: Direct index,No change,-1.6329,0.1037
+qlike,7,Bridge: BU own drivers,HAR-RV (full history),0.6385,0.5237
+qlike,7,Bridge: BU own drivers,HAR-RV (180 days),-0.1038,0.9174
+qlike,7,Bridge: BU own drivers,"GARCH(1,1)-t",-1.035,0.3016
+qlike,7,Bridge: BU own drivers,No change,-1.5123,0.1317
+qlike,7,HAR-X: BU own drivers,HAR-RV (full history),2.2205,0.0273
+qlike,7,HAR-X: BU own drivers,HAR-RV (180 days),1.8366,0.0674
+qlike,7,HAR-X: BU own drivers,"GARCH(1,1)-t",0.7245,0.4694
+qlike,7,HAR-X: BU own drivers,No change,-1.0287,0.3046
+qlike,7,Bridge: BU no market drivers,HAR-RV (full history),0.6514,0.5154
+qlike,7,Bridge: BU no market drivers,HAR-RV (180 days),-0.1164,0.9074
+qlike,7,Bridge: BU no market drivers,"GARCH(1,1)-t",-1.0406,0.2991
+qlike,7,Bridge: BU no market drivers,No change,-1.5269,0.128
+qlike,7,HAR-X: BU no market drivers,HAR-RV (full history),2.3146,0.0214
+qlike,7,HAR-X: BU no market drivers,HAR-RV (180 days),1.9018,0.0583
+qlike,7,HAR-X: BU no market drivers,"GARCH(1,1)-t",0.8081,0.4198
+qlike,7,HAR-X: BU no market drivers,No change,-0.952,0.342
+qlike,7,Bridge: BU on-chain only,HAR-RV (full history),0.6466,0.5185
+qlike,7,Bridge: BU on-chain only,HAR-RV (180 days),-0.1187,0.9056
+qlike,7,Bridge: BU on-chain only,"GARCH(1,1)-t",-1.0399,0.2994
+qlike,7,Bridge: BU on-chain only,No change,-1.5271,0.128
+qlike,7,HAR-X: BU on-chain only,HAR-RV (full history),2.3131,0.0215
+qlike,7,HAR-X: BU on-chain only,HAR-RV (180 days),1.9131,0.0569
+qlike,7,HAR-X: BU on-chain only,"GARCH(1,1)-t",0.8207,0.4126
+qlike,7,HAR-X: BU on-chain only,No change,-0.9385,0.3489
+qlike,7,Bridge: realised index (oracle),HAR-RV (full history),-1.4044,0.1614
+qlike,7,Bridge: realised index (oracle),HAR-RV (180 days),-1.9176,0.0563
+qlike,7,Bridge: realised index (oracle),"GARCH(1,1)-t",-3.8176,0.0002
+qlike,7,Bridge: realised index (oracle),No change,-1.8028,0.0726
+se,7,Bridge: Direct index,HAR-RV (full history),0.6468,0.5183
+se,7,Bridge: Direct index,HAR-RV (180 days),-0.6775,0.4987
+se,7,Bridge: Direct index,"GARCH(1,1)-t",-3.0145,0.0028
+se,7,Bridge: Direct index,No change,-1.4487,0.1487
+se,7,Bridge: BU own drivers,HAR-RV (full history),1.0046,0.3161
+se,7,Bridge: BU own drivers,HAR-RV (180 days),-0.0729,0.9419
+se,7,Bridge: BU own drivers,"GARCH(1,1)-t",-2.5182,0.0124
+se,7,Bridge: BU own drivers,No change,-1.2358,0.2177
+se,7,HAR-X: BU own drivers,HAR-RV (full history),2.4708,0.0141
+se,7,HAR-X: BU own drivers,HAR-RV (180 days),1.439,0.1514
+se,7,HAR-X: BU own drivers,"GARCH(1,1)-t",-2.6991,0.0074
+se,7,HAR-X: BU own drivers,No change,-1.2451,0.2142
+se,7,Bridge: BU no market drivers,HAR-RV (full history),1.0053,0.3157
+se,7,Bridge: BU no market drivers,HAR-RV (180 days),-0.0642,0.9488
+se,7,Bridge: BU no market drivers,"GARCH(1,1)-t",-2.5201,0.0123
+se,7,Bridge: BU no market drivers,No change,-1.2305,0.2197
+se,7,HAR-X: BU no market drivers,HAR-RV (full history),2.9952,0.003
+se,7,HAR-X: BU no market drivers,HAR-RV (180 days),0.862,0.3895
+se,7,HAR-X: BU no market drivers,"GARCH(1,1)-t",-2.5888,0.0102
+se,7,HAR-X: BU no market drivers,No change,-1.2023,0.2304
+se,7,Bridge: BU on-chain only,HAR-RV (full history),0.9869,0.3247
+se,7,Bridge: BU on-chain only,HAR-RV (180 days),-0.115,0.9085
+se,7,Bridge: BU on-chain only,"GARCH(1,1)-t",-2.5662,0.0109
+se,7,Bridge: BU on-chain only,No change,-1.2517,0.2118
+se,7,HAR-X: BU on-chain only,HAR-RV (full history),3.1111,0.0021
+se,7,HAR-X: BU on-chain only,HAR-RV (180 days),0.5987,0.5499
+se,7,HAR-X: BU on-chain only,"GARCH(1,1)-t",-2.5596,0.0111
+se,7,HAR-X: BU on-chain only,No change,-1.2004,0.2311
+se,7,Bridge: realised index (oracle),HAR-RV (full history),-0.8671,0.3867
+se,7,Bridge: realised index (oracle),HAR-RV (180 days),-1.7257,0.0856
+se,7,Bridge: realised index (oracle),"GARCH(1,1)-t",-3.8539,0.0001
+se,7,Bridge: realised index (oracle),No change,-1.8149,0.0707
+qlike,10,Bridge: Direct index,HAR-RV (full history),-0.0214,0.9829
+qlike,10,Bridge: Direct index,HAR-RV (180 days),-0.5111,0.6098
+qlike,10,Bridge: Direct index,"GARCH(1,1)-t",-1.4841,0.139
+qlike,10,Bridge: Direct index,No change,-2.7532,0.0063
+qlike,10,Bridge: BU own drivers,HAR-RV (full history),1.1477,0.2522
+qlike,10,Bridge: BU own drivers,HAR-RV (180 days),0.3536,0.7239
+qlike,10,Bridge: BU own drivers,"GARCH(1,1)-t",-0.7844,0.4335
+qlike,10,Bridge: BU own drivers,No change,-2.5767,0.0105
+qlike,10,HAR-X: BU own drivers,HAR-RV (full history),1.8735,0.0622
+qlike,10,HAR-X: BU own drivers,HAR-RV (180 days),1.7007,0.0902
+qlike,10,HAR-X: BU own drivers,"GARCH(1,1)-t",1.1439,0.2538
+qlike,10,HAR-X: BU own drivers,No change,-0.8114,0.4179
+qlike,10,Bridge: BU no market drivers,HAR-RV (full history),1.0469,0.2962
+qlike,10,Bridge: BU no market drivers,HAR-RV (180 days),0.29,0.772
+qlike,10,Bridge: BU no market drivers,"GARCH(1,1)-t",-0.8389,0.4023
+qlike,10,Bridge: BU no market drivers,No change,-2.5961,0.01
+qlike,10,HAR-X: BU no market drivers,HAR-RV (full history),1.7958,0.0737
+qlike,10,HAR-X: BU no market drivers,HAR-RV (180 days),1.6842,0.0934
+qlike,10,HAR-X: BU no market drivers,"GARCH(1,1)-t",1.2195,0.2238
+qlike,10,HAR-X: BU no market drivers,No change,-0.4749,0.6353
+qlike,10,Bridge: BU on-chain only,HAR-RV (full history),1.0525,0.2936
+qlike,10,Bridge: BU on-chain only,HAR-RV (180 days),0.3011,0.7636
+qlike,10,Bridge: BU on-chain only,"GARCH(1,1)-t",-0.8334,0.4054
+qlike,10,Bridge: BU on-chain only,No change,-2.5916,0.0101
+qlike,10,HAR-X: BU on-chain only,HAR-RV (full history),1.7851,0.0755
+qlike,10,HAR-X: BU on-chain only,HAR-RV (180 days),1.6788,0.0944
+qlike,10,HAR-X: BU on-chain only,"GARCH(1,1)-t",1.2218,0.2229
+qlike,10,HAR-X: BU on-chain only,No change,-0.4503,0.6529
+qlike,10,Bridge: realised index (oracle),HAR-RV (full history),-1.1645,0.2453
+qlike,10,Bridge: realised index (oracle),HAR-RV (180 days),-2.064,0.04
+qlike,10,Bridge: realised index (oracle),"GARCH(1,1)-t",-3.1655,0.0017
+qlike,10,Bridge: realised index (oracle),No change,-2.7805,0.0058
+se,10,Bridge: Direct index,HAR-RV (full history),0.5595,0.5763
+se,10,Bridge: Direct index,HAR-RV (180 days),-0.5438,0.5871
+se,10,Bridge: Direct index,"GARCH(1,1)-t",-2.9312,0.0037
+se,10,Bridge: Direct index,No change,-1.6368,0.1029
+se,10,Bridge: BU own drivers,HAR-RV (full history),1.1678,0.244
+se,10,Bridge: BU own drivers,HAR-RV (180 days),0.3163,0.7521
+se,10,Bridge: BU own drivers,"GARCH(1,1)-t",-2.4159,0.0164
+se,10,Bridge: BU own drivers,No change,-1.4168,0.1578
+se,10,HAR-X: BU own drivers,HAR-RV (full history),1.6912,0.0921
+se,10,HAR-X: BU own drivers,HAR-RV (180 days),1.5428,0.1241
+se,10,HAR-X: BU own drivers,"GARCH(1,1)-t",0.4895,0.6249
+se,10,HAR-X: BU own drivers,No change,0.7749,0.4391
+se,10,Bridge: BU no market drivers,HAR-RV (full history),1.1164,0.2653
+se,10,Bridge: BU no market drivers,HAR-RV (180 days),0.1791,0.858
+se,10,Bridge: BU no market drivers,"GARCH(1,1)-t",-2.5218,0.0123
+se,10,Bridge: BU no market drivers,No change,-1.4632,0.1447
+se,10,HAR-X: BU no market drivers,HAR-RV (full history),2.802,0.0055
+se,10,HAR-X: BU no market drivers,HAR-RV (180 days),1.9625,0.0508
+se,10,HAR-X: BU no market drivers,"GARCH(1,1)-t",-0.9131,0.3621
+se,10,HAR-X: BU no market drivers,No change,-0.9158,0.3606
+se,10,Bridge: BU on-chain only,HAR-RV (full history),1.1248,0.2617
+se,10,Bridge: BU on-chain only,HAR-RV (180 days),0.253,0.8005
+se,10,Bridge: BU on-chain only,"GARCH(1,1)-t",-2.4554,0.0148
+se,10,Bridge: BU on-chain only,No change,-1.4324,0.1533
+se,10,HAR-X: BU on-chain only,HAR-RV (full history),2.9067,0.004
+se,10,HAR-X: BU on-chain only,HAR-RV (180 days),1.9325,0.0544
+se,10,HAR-X: BU on-chain only,"GARCH(1,1)-t",-1.0131,0.312
+se,10,HAR-X: BU on-chain only,No change,-0.9447,0.3457
+se,10,Bridge: realised index (oracle),HAR-RV (full history),-0.8467,0.398
+se,10,Bridge: realised index (oracle),HAR-RV (180 days),-2.1746,0.0306
+se,10,Bridge: realised index (oracle),"GARCH(1,1)-t",-4.2329,0.0
+se,10,Bridge: realised index (oracle),No change,-1.9725,0.0497
+qlike,14,Bridge: Direct index,HAR-RV (full history),-0.763,0.4462
+qlike,14,Bridge: Direct index,HAR-RV (180 days),-0.287,0.7744
+qlike,14,Bridge: Direct index,"GARCH(1,1)-t",-1.4938,0.1365
+qlike,14,Bridge: Direct index,No change,-1.863,0.0637
+qlike,14,Bridge: BU own drivers,HAR-RV (full history),-0.1267,0.8993
+qlike,14,Bridge: BU own drivers,HAR-RV (180 days),0.188,0.8511
+qlike,14,Bridge: BU own drivers,"GARCH(1,1)-t",-1.0084,0.3143
+qlike,14,Bridge: BU own drivers,No change,-1.807,0.072
+qlike,14,HAR-X: BU own drivers,HAR-RV (full history),1.4483,0.1488
+qlike,14,HAR-X: BU own drivers,HAR-RV (180 days),1.3023,0.194
+qlike,14,HAR-X: BU own drivers,"GARCH(1,1)-t",1.0647,0.2881
+qlike,14,HAR-X: BU own drivers,No change,0.665,0.5067
+qlike,14,Bridge: BU no market drivers,HAR-RV (full history),-0.3334,0.7391
+qlike,14,Bridge: BU no market drivers,HAR-RV (180 days),0.099,0.9212
+qlike,14,Bridge: BU no market drivers,"GARCH(1,1)-t",-1.0376,0.3005
+qlike,14,Bridge: BU no market drivers,No change,-1.8582,0.0643
+qlike,14,HAR-X: BU no market drivers,HAR-RV (full history),1.7639,0.079
+qlike,14,HAR-X: BU no market drivers,HAR-RV (180 days),1.5377,0.1254
+qlike,14,HAR-X: BU no market drivers,"GARCH(1,1)-t",1.1542,0.2495
+qlike,14,HAR-X: BU no market drivers,No change,0.3928,0.6948
+qlike,14,Bridge: BU on-chain only,HAR-RV (full history),-0.3207,0.7487
+qlike,14,Bridge: BU on-chain only,HAR-RV (180 days),0.1031,0.9179
+qlike,14,Bridge: BU on-chain only,"GARCH(1,1)-t",-1.0394,0.2996
+qlike,14,Bridge: BU on-chain only,No change,-1.855,0.0648
+qlike,14,HAR-X: BU on-chain only,HAR-RV (full history),1.7886,0.0749
+qlike,14,HAR-X: BU on-chain only,HAR-RV (180 days),1.5695,0.1178
+qlike,14,HAR-X: BU on-chain only,"GARCH(1,1)-t",1.1751,0.2411
+qlike,14,HAR-X: BU on-chain only,No change,0.3937,0.6942
+qlike,14,Bridge: realised index (oracle),HAR-RV (full history),-1.0922,0.2758
+qlike,14,Bridge: realised index (oracle),HAR-RV (180 days),-1.7319,0.0845
+qlike,14,Bridge: realised index (oracle),"GARCH(1,1)-t",-2.6268,0.0092
+qlike,14,Bridge: realised index (oracle),No change,-1.8639,0.0635
+se,14,Bridge: Direct index,HAR-RV (full history),-0.0186,0.9851
+se,14,Bridge: Direct index,HAR-RV (180 days),-0.6353,0.5258
+se,14,Bridge: Direct index,"GARCH(1,1)-t",-3.3888,0.0008
+se,14,Bridge: Direct index,No change,-1.4634,0.1446
+se,14,Bridge: BU own drivers,HAR-RV (full history),0.6594,0.5103
+se,14,Bridge: BU own drivers,HAR-RV (180 days),0.031,0.9753
+se,14,Bridge: BU own drivers,"GARCH(1,1)-t",-2.8026,0.0055
+se,14,Bridge: BU own drivers,No change,-1.3085,0.1919
+se,14,HAR-X: BU own drivers,HAR-RV (full history),2.5292,0.0121
+se,14,HAR-X: BU own drivers,HAR-RV (180 days),1.4948,0.1362
+se,14,HAR-X: BU own drivers,"GARCH(1,1)-t",-0.9833,0.3264
+se,14,HAR-X: BU own drivers,No change,-0.7231,0.4703
+se,14,Bridge: BU no market drivers,HAR-RV (full history),0.3258,0.7448
+se,14,Bridge: BU no market drivers,HAR-RV (180 days),-0.3097,0.7571
+se,14,Bridge: BU no market drivers,"GARCH(1,1)-t",-3.06,0.0025
+se,14,Bridge: BU no market drivers,No change,-1.4158,0.1581
+se,14,HAR-X: BU no market drivers,HAR-RV (full history),2.4097,0.0167
+se,14,HAR-X: BU no market drivers,HAR-RV (180 days),1.3148,0.1898
+se,14,HAR-X: BU no market drivers,"GARCH(1,1)-t",-1.3095,0.1916
+se,14,HAR-X: BU no market drivers,No change,-0.8917,0.3734
+se,14,Bridge: BU on-chain only,HAR-RV (full history),0.3537,0.7239
+se,14,Bridge: BU on-chain only,HAR-RV (180 days),-0.2858,0.7753
+se,14,Bridge: BU on-chain only,"GARCH(1,1)-t",-3.0515,0.0025
+se,14,Bridge: BU on-chain only,No change,-1.409,0.1601
+se,14,HAR-X: BU on-chain only,HAR-RV (full history),2.3944,0.0174
+se,14,HAR-X: BU on-chain only,HAR-RV (180 days),1.3363,0.1827
+se,14,HAR-X: BU on-chain only,"GARCH(1,1)-t",-1.3201,0.188
+se,14,HAR-X: BU on-chain only,No change,-0.8959,0.3712
+se,14,Bridge: realised index (oracle),HAR-RV (full history),-0.7784,0.4371
+se,14,Bridge: realised index (oracle),HAR-RV (180 days),-2.0818,0.0384
+se,14,Bridge: realised index (oracle),"GARCH(1,1)-t",-4.6284,0.0
+se,14,Bridge: realised index (oracle),No change,-1.6723,0.0957
+qlike,W1,Bridge: Direct index,HAR-RV (full history),0.2379,0.8122
+qlike,W1,Bridge: Direct index,HAR-RV (180 days),-0.1682,0.8666
+qlike,W1,Bridge: Direct index,"GARCH(1,1)-t",-1.7058,0.0893
+qlike,W1,Bridge: Direct index,No change,-1.9653,0.0505
+qlike,W1,Bridge: BU own drivers,HAR-RV (full history),0.7413,0.4592
+qlike,W1,Bridge: BU own drivers,HAR-RV (180 days),0.2482,0.8042
+qlike,W1,Bridge: BU own drivers,"GARCH(1,1)-t",-0.8523,0.3948
+qlike,W1,Bridge: BU own drivers,No change,-1.8568,0.0645
+qlike,W1,HAR-X: BU own drivers,HAR-RV (full history),2.2431,0.0258
+qlike,W1,HAR-X: BU own drivers,HAR-RV (180 days),1.9393,0.0536
+qlike,W1,HAR-X: BU own drivers,"GARCH(1,1)-t",-0.4522,0.6515
+qlike,W1,HAR-X: BU own drivers,No change,-2.2302,0.0266
+qlike,W1,Bridge: BU no market drivers,HAR-RV (full history),0.7631,0.4461
+qlike,W1,Bridge: BU no market drivers,HAR-RV (180 days),0.2538,0.7999
+qlike,W1,Bridge: BU no market drivers,"GARCH(1,1)-t",-0.8886,0.3751
+qlike,W1,Bridge: BU no market drivers,No change,-1.8631,0.0636
+qlike,W1,HAR-X: BU no market drivers,HAR-RV (full history),2.4347,0.0156
+qlike,W1,HAR-X: BU no market drivers,HAR-RV (180 days),1.8949,0.0592
+qlike,W1,HAR-X: BU no market drivers,"GARCH(1,1)-t",-0.3748,0.7081
+qlike,W1,HAR-X: BU no market drivers,No change,-2.2065,0.0283
+qlike,W1,Bridge: BU on-chain only,HAR-RV (full history),0.7664,0.4441
+qlike,W1,Bridge: BU on-chain only,HAR-RV (180 days),0.2572,0.7972
+qlike,W1,Bridge: BU on-chain only,"GARCH(1,1)-t",-0.8796,0.3799
+qlike,W1,Bridge: BU on-chain only,No change,-1.8617,0.0638
+qlike,W1,HAR-X: BU on-chain only,HAR-RV (full history),2.4242,0.016
+qlike,W1,HAR-X: BU on-chain only,HAR-RV (180 days),1.896,0.0591
+qlike,W1,HAR-X: BU on-chain only,"GARCH(1,1)-t",-0.3688,0.7126
+qlike,W1,HAR-X: BU on-chain only,No change,-2.2068,0.0282
+qlike,W1,Bridge: realised index (oracle),HAR-RV (full history),-0.3356,0.7375
+qlike,W1,Bridge: realised index (oracle),HAR-RV (180 days),-0.5856,0.5586
+qlike,W1,Bridge: realised index (oracle),"GARCH(1,1)-t",-2.648,0.0086
+qlike,W1,Bridge: realised index (oracle),No change,-2.0265,0.0438
+se,W1,Bridge: Direct index,HAR-RV (full history),1.2028,0.2302
+se,W1,Bridge: Direct index,HAR-RV (180 days),0.4072,0.6842
+se,W1,Bridge: Direct index,"GARCH(1,1)-t",-1.6107,0.1085
+se,W1,Bridge: Direct index,No change,-0.6641,0.5072
+se,W1,Bridge: BU own drivers,HAR-RV (full history),1.4635,0.1446
+se,W1,Bridge: BU own drivers,HAR-RV (180 days),0.7947,0.4275
+se,W1,Bridge: BU own drivers,"GARCH(1,1)-t",-1.1926,0.2341
+se,W1,Bridge: BU own drivers,No change,-0.3359,0.7372
+se,W1,HAR-X: BU own drivers,HAR-RV (full history),1.3713,0.1715
+se,W1,HAR-X: BU own drivers,HAR-RV (180 days),1.8127,0.0711
+se,W1,HAR-X: BU own drivers,"GARCH(1,1)-t",-2.5999,0.0099
+se,W1,HAR-X: BU own drivers,No change,-1.0643,0.2882
+se,W1,Bridge: BU no market drivers,HAR-RV (full history),1.5062,0.1333
+se,W1,Bridge: BU no market drivers,HAR-RV (180 days),0.8247,0.4103
+se,W1,Bridge: BU no market drivers,"GARCH(1,1)-t",-1.1873,0.2362
+se,W1,Bridge: BU no market drivers,No change,-0.3238,0.7463
+se,W1,HAR-X: BU no market drivers,HAR-RV (full history),1.8143,0.0708
+se,W1,HAR-X: BU no market drivers,HAR-RV (180 days),1.4063,0.1609
+se,W1,HAR-X: BU no market drivers,"GARCH(1,1)-t",-2.302,0.0221
+se,W1,HAR-X: BU no market drivers,No change,-0.9102,0.3636
+se,W1,Bridge: BU on-chain only,HAR-RV (full history),1.4989,0.1352
+se,W1,Bridge: BU on-chain only,HAR-RV (180 days),0.8029,0.4228
+se,W1,Bridge: BU on-chain only,"GARCH(1,1)-t",-1.2183,0.2243
+se,W1,Bridge: BU on-chain only,No change,-0.3488,0.7275
+se,W1,HAR-X: BU on-chain only,HAR-RV (full history),1.8182,0.0702
+se,W1,HAR-X: BU on-chain only,HAR-RV (180 days),1.3112,0.191
+se,W1,HAR-X: BU on-chain only,"GARCH(1,1)-t",-2.279,0.0235
+se,W1,HAR-X: BU on-chain only,No change,-0.905,0.3663
+se,W1,Bridge: realised index (oracle),HAR-RV (full history),0.8153,0.4156
+se,W1,Bridge: realised index (oracle),HAR-RV (180 days),0.0827,0.9341
+se,W1,Bridge: realised index (oracle),"GARCH(1,1)-t",-2.0653,0.0399
+se,W1,Bridge: realised index (oracle),No change,-0.9817,0.3272
+qlike,W2,Bridge: Direct index,HAR-RV (full history),-0.6372,0.5246
+qlike,W2,Bridge: Direct index,HAR-RV (180 days),-0.6108,0.5419
+qlike,W2,Bridge: Direct index,"GARCH(1,1)-t",-2.3928,0.0175
+qlike,W2,Bridge: Direct index,No change,-2.3502,0.0196
+qlike,W2,Bridge: BU own drivers,HAR-RV (full history),0.1371,0.891
+qlike,W2,Bridge: BU own drivers,HAR-RV (180 days),0.0458,0.9635
+qlike,W2,Bridge: BU own drivers,"GARCH(1,1)-t",-1.6869,0.0929
+qlike,W2,Bridge: BU own drivers,No change,-2.2654,0.0244
+qlike,W2,HAR-X: BU own drivers,HAR-RV (full history),1.9929,0.0474
+qlike,W2,HAR-X: BU own drivers,HAR-RV (180 days),1.6954,0.0913
+qlike,W2,HAR-X: BU own drivers,"GARCH(1,1)-t",0.9946,0.3209
+qlike,W2,HAR-X: BU own drivers,No change,-1.5188,0.1301
+qlike,W2,Bridge: BU no market drivers,HAR-RV (full history),0.0634,0.9495
+qlike,W2,Bridge: BU no market drivers,HAR-RV (180 days),-0.02,0.9841
+qlike,W2,Bridge: BU no market drivers,"GARCH(1,1)-t",-1.7435,0.0825
+qlike,W2,Bridge: BU no market drivers,No change,-2.2822,0.0233
+qlike,W2,HAR-X: BU no market drivers,HAR-RV (full history),1.8585,0.0643
+qlike,W2,HAR-X: BU no market drivers,HAR-RV (180 days),1.6807,0.0941
+qlike,W2,HAR-X: BU no market drivers,"GARCH(1,1)-t",1.0065,0.3152
+qlike,W2,HAR-X: BU no market drivers,No change,-1.4036,0.1617
+qlike,W2,Bridge: BU on-chain only,HAR-RV (full history),0.0803,0.936
+qlike,W2,Bridge: BU on-chain only,HAR-RV (180 days),-0.0046,0.9964
+qlike,W2,Bridge: BU on-chain only,"GARCH(1,1)-t",-1.7322,0.0845
+qlike,W2,Bridge: BU on-chain only,No change,-2.2783,0.0236
+qlike,W2,HAR-X: BU on-chain only,HAR-RV (full history),1.8242,0.0693
+qlike,W2,HAR-X: BU on-chain only,HAR-RV (180 days),1.6722,0.0958
+qlike,W2,HAR-X: BU on-chain only,"GARCH(1,1)-t",1.0163,0.3105
+qlike,W2,HAR-X: BU on-chain only,No change,-1.3589,0.1754
+qlike,W2,Bridge: realised index (oracle),HAR-RV (full history),-1.1304,0.2594
+qlike,W2,Bridge: realised index (oracle),HAR-RV (180 days),-1.8098,0.0715
+qlike,W2,Bridge: realised index (oracle),"GARCH(1,1)-t",-3.5403,0.0005
+qlike,W2,Bridge: realised index (oracle),No change,-2.3624,0.0189
+se,W2,Bridge: Direct index,HAR-RV (full history),0.0708,0.9436
+se,W2,Bridge: Direct index,HAR-RV (180 days),-0.5588,0.5768
+se,W2,Bridge: Direct index,"GARCH(1,1)-t",-3.1491,0.0018
+se,W2,Bridge: Direct index,No change,-1.5741,0.1168
+se,W2,Bridge: BU own drivers,HAR-RV (full history),0.7475,0.4555
+se,W2,Bridge: BU own drivers,HAR-RV (180 days),0.2873,0.7741
+se,W2,Bridge: BU own drivers,"GARCH(1,1)-t",-2.6387,0.0089
+se,W2,Bridge: BU own drivers,No change,-1.3802,0.1688
+se,W2,HAR-X: BU own drivers,HAR-RV (full history),2.9116,0.0039
+se,W2,HAR-X: BU own drivers,HAR-RV (180 days),1.7735,0.0774
+se,W2,HAR-X: BU own drivers,"GARCH(1,1)-t",-1.4722,0.1422
+se,W2,HAR-X: BU own drivers,No change,-1.0709,0.2853
+se,W2,Bridge: BU no market drivers,HAR-RV (full history),0.6757,0.4998
+se,W2,Bridge: BU no market drivers,HAR-RV (180 days),0.1387,0.8898
+se,W2,Bridge: BU no market drivers,"GARCH(1,1)-t",-2.7771,0.0059
+se,W2,Bridge: BU no market drivers,No change,-1.4334,0.153
+se,W2,HAR-X: BU no market drivers,HAR-RV (full history),2.7586,0.0062
+se,W2,HAR-X: BU no market drivers,HAR-RV (180 days),1.5131,0.1315
+se,W2,HAR-X: BU no market drivers,"GARCH(1,1)-t",-1.6824,0.0938
+se,W2,HAR-X: BU no market drivers,No change,-1.1301,0.2595
+se,W2,Bridge: BU on-chain only,HAR-RV (full history),0.7098,0.4785
+se,W2,Bridge: BU on-chain only,HAR-RV (180 days),0.2005,0.8412
+se,W2,Bridge: BU on-chain only,"GARCH(1,1)-t",-2.7364,0.0067
+se,W2,Bridge: BU on-chain only,No change,-1.4153,0.1582
+se,W2,HAR-X: BU on-chain only,HAR-RV (full history),2.7066,0.0073
+se,W2,HAR-X: BU on-chain only,HAR-RV (180 days),1.4944,0.1363
+se,W2,HAR-X: BU on-chain only,"GARCH(1,1)-t",-1.6967,0.091
+se,W2,HAR-X: BU on-chain only,No change,-1.129,0.26
+se,W2,Bridge: realised index (oracle),HAR-RV (full history),-0.7721,0.4408
+se,W2,Bridge: realised index (oracle),HAR-RV (180 days),-2.4093,0.0167
+se,W2,Bridge: realised index (oracle),"GARCH(1,1)-t",-4.0742,0.0001
+se,W2,Bridge: realised index (oracle),No change,-1.74,0.0831
